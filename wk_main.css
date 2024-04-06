@@ -1,0 +1,27 @@
+.main{
+
+    background-color: rgb(72, 70, 70);
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#instruct
+{
+    font-size: 2em;
+    padding-top: 2em;
+}
+#button{
+    width: 20em;
+    height:20em;
+    border-radius: 50%;
+}
+
